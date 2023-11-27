@@ -4,11 +4,17 @@ Hello everybody!
 
 🤖 I am a software engineer working at [Cofi.ai](https://www.cofi.ai), where we build an amazing platform that offers FP&A, visualisation and (not yet) forecasting for any kind of metric. 
 
-🚀 I got in the software engineering at the end of my Aerospace Engineering degree, and I've been learning more things ever since.  
-
-
+🚀 I got interested in the software engineering at the end of my Aerospace Engineering degree, and I've been learning more things ever since.  
 
 👨🏻‍💻 I would very much like to participate in open source projects when I find the time to do so, so any recommendations are welcome. 
+
+***
+
+## Sort my thoughs
+
+[Sort my thoughts](sortmythoughts.com) is a project I'm currently working on that helps the users take notes easily, with beautiful formatting tools and, on top of that, has a virtual AI assistant that helps the user organize and provide any information related to their notes. 
+
+***
 
 
 Reach me here or in twitter, any time you feel like so. 
