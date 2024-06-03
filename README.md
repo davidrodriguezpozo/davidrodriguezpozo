@@ -10,7 +10,7 @@ Hello everybody!
 
 ***
 
-## Sort my thoughs
+## Sort my thoughts
 
 [Sort my thoughts](https://www.sortmythoughts.com) is a project I'm currently working on that helps the users take notes easily, with beautiful formatting tools and, on top of that, has a virtual AI assistant that helps the user organize and provide any information related to their notes. 
 
