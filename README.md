@@ -2,7 +2,7 @@ Hello everybody!
 
 🙋🏻‍♂️ I’m @davidrodriguezpozo, @_davidrdr in [twitter](https://twitter.com/_davidrdr) (though I'd like to be more active there). This repo contains all my personal projects. Right now it contains a lot of Data Science projects that I developed for my Master's degree (Msc in Data Science & AI) though from time to time I develop a side project and upload it here as well. 
 
-🤖 I am a software engineer working at [Cofi.ai](https://www.cofi.ai), where we build an amazing platform that offers FP&A, visualisation and forecasting for companies (financial portfolios, VC & PE...). 
+🤖 I am the CTO of [Numerand](https://www.numerand.com/en), where we build the next-gen financial platform for SMBs and accounting firms. 
 
 🚀 I got interested in software engineering at the end of my Aerospace Engineering degree, and I've been learning more things ever since.  
 
