@@ -8,15 +8,6 @@ Hello everybody!
 
 👨🏻‍💻 I would very much like to participate in open source projects when I find the time to do so, so any recommendations are welcome. 
 
-***
-
-## Sort my thoughts
-
-[Sort my thoughts](https://www.sortmythoughts.com) is a project I'm currently working on that helps the users take notes easily, with beautiful formatting tools and, on top of that, has a virtual AI assistant that helps the user organize and provide any information related to their notes. 
-
-***
-
-
 Reach me here or in twitter, any time you feel like so. 
 
 <!---
